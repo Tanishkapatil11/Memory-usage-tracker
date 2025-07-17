@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Memory Usage Tracker",
+  "version": "1.1",
+  "description": "Track system memory and close unused tabs to free it.",
+  "permissions": ["system.memory", "tabs"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
