@@ -21,18 +21,6 @@ A lightweight and intuitive browser extension to monitor and manage your browser
 - `performance.memory` for memory stats  
 - `chrome.tabs` API for tab management
 
----
-
-## 📸 Screenshots
-
-> *(Include 2–3 screenshots here)*  
-> Example:
-> - Pop-up UI showing memory usage  
-> - Open tabs list with "Close" buttons  
-> - After pressing "Free Up Memory"
-
----
-
 ## 🚀 Installation
 
 1. Clone or download this repository
